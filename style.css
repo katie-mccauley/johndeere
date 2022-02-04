@@ -1,0 +1,29 @@
+.story-image{
+  background-image: url(https://thiscatdoesnotexist.com);
+  background-size: cover;
+  background-position: center;
+  min-height: 40vh;
+}
+
+.img-square{
+  background-image: url(https://thiscatdoesnotexist.com);
+  background-size: cover;
+  min-height: 65vh;
+  background-position: center;
+}
+
+.bg-lightgrey{
+  background-color: rgb(212, 211, 211);
+}
+
+footer{
+  height: 10vh;
+}
+
+.quad{
+  background-image: url(https://thiscatdoesnotexist.com);
+  background-size: cover; 
+  background-position: center;
+  height: 40vh;
+  width: 35vw;
+}
